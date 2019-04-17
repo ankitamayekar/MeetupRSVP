@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Users\ketan\source\root\MeetupRSVP\target\scala-2.12\meetuprsvp_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MeetupRsvpConsumer$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\MeetupRSVP\target\scala-2.12\classes\MeetupRsvpConsumer$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MeetupRSVP$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\MeetupRSVP\target\scala-2.12\classes\MeetupRSVP$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MeetupRsvpConsumer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\MeetupRSVP\target\scala-2.12\classes\MeetupRsvpConsumer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MeetupRsvpBatchAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\MeetupRSVP\target\scala-2.12\classes\MeetupRsvpBatchAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	meetup.json[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\MeetupRSVP\target\scala-2.12\classes\meetup.json[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MeetupRSVP.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\MeetupRSVP\target\scala-2.12\classes\MeetupRSVP.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MeetupRsvpProducer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\MeetupRSVP\target\scala-2.12\classes\MeetupRsvpProducer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	rsvp.json[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\MeetupRSVP\target\scala-2.12\classes\rsvp.json[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MeetupRsvpBatchAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\MeetupRSVP\target\scala-2.12\classes\MeetupRsvpBatchAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MeetupRsvpConsumer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\MeetupRSVP\target\scala-2.12\classes\MeetupRsvpConsumer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MeetupRsvpProducer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\MeetupRSVP\target\scala-2.12\classes\MeetupRsvpProducer.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
